@@ -10,11 +10,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Optimizing-Cost-with-Google-Cloud-Storage-GSP649/refs/heads/main/qwiklab_explorers_gsp649.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Use-APIs-to-Work-with-Cloud-Storage-Challenge-Lab-ARC125--UPDATED-/refs/heads/main/qwiklab_explorers_arc125.sh
 
-sudo chmod +x qwiklab_explorers_gsp649.sh
+sudo chmod +x qwiklab_explorers_arc125.sh
 
-./qwiklab_explorers_gsp649.sh
+./qwiklab_explorers_arc125.sh
 ```
 
 ---
